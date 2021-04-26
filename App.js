@@ -12,14 +12,14 @@ import WheelOfFortune from 'react-native-wheel-of-fortune';
 import Gestures from 'react-native-easy-gestures';
 
 const participants = [
-  '%10',
-  '%20',
-  '%30',
-  '%40',
-  '%50',
-  '%60',
-  '%70',
-  '%90',
+  '10%',
+  '20%',
+  '30%',
+  '40%',
+  '50%',
+  '60%',
+  '70%',
+  '90%',
   'FREE',
 ];
 class App extends Component {
